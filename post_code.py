@@ -40,9 +40,9 @@ payload = {
             'list_type':list_type,
             'firstView':firstView,
             'vKey':vKey,
-            'city':'新北市',
-            'cityarea':'新店區',
-            'street':'建國路',
+            'city':'城市',
+            'cityarea':'區域',
+            'street':'路',
             'checkImange':checkImange,
             'Submit':'查詢'
            }
